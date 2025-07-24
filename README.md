@@ -1,6 +1,3 @@
-Sure! Here's **everything bundled into one complete `README.md`** in a single markdown block — ready to copy and paste into your GitHub root:
-
-````markdown
 # 🧠 FreeLLM Chat: LLaMA 3 + LLaVA Vision
 
 A fully **local**, free-to-use chatbot that supports both **text and image-based queries**. Built with Flask, React, and powered by **LLaMA 3** and **LLaVA** via [Ollama](https://ollama.com/).
@@ -145,7 +142,4 @@ Licensed under the [MIT License](LICENSE).
 
 ### 🌟 Star the repo if this helped you go serverless with LLMs — no API bills ever again!
 
-```
 
-Let me know if you'd like badges, demo screenshots, or a video preview section added next!
-```
