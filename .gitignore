@@ -1,0 +1,30 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.DS_Store
+
+# Flask
+instance/
+*.db
+
+# React/Node
+llama-chat-frontend/node_modules/
+llama-chat-frontend/build/
+llama-chat-frontend/.env
+
+# VSCode
+.vscode/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log
+
+# Misc
+*.swp 
