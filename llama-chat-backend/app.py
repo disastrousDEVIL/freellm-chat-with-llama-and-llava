@@ -14,7 +14,7 @@ CORS(app)  # Enable CORS for React frontend
 # Configuration
 OLLAMA_BASE_URL = "http://localhost:11434"
 DEFAULT_MODEL_VISION = "llava:latest"
-DEFAULT_MODEL_TEXT = "llama3:latest"
+DEFAULT_MODEL_TEXT = "llama3.2:latest"
 
 class LlamaVisionAPI:
     def __init__(self, base_url=OLLAMA_BASE_URL):
