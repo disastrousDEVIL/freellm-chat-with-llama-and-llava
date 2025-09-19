@@ -48,6 +48,7 @@ class LlamaVisionAPI:
                     "options": {
                         "temperature": 0.7,
                         "top_p": 0.9,
+                        "num_predict": 200
                     }
                 }
                 
@@ -66,6 +67,7 @@ class LlamaVisionAPI:
                     "options": {
                         "temperature": 0.7,
                         "top_p": 0.9,
+                        "num_predict": 200
                     }
                 }
                 
